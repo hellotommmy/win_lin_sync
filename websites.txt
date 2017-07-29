@@ -1,0 +1,1 @@
+http://gribblelab.org/CBootCamp/A2_Parallel_Programming_in_C.html
